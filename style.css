@@ -249,12 +249,12 @@
             background-color: var(--light-color);
         }
         
-        .about-content {
+        /* .about-content {
             display: grid;
             grid-template-columns: 1fr 1fr;
             gap: 50px;
             align-items: center;
-        }
+        } */
         
         .about-text h3 {
             font-size: 2rem;
